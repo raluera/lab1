@@ -1,0 +1,15 @@
+.project {
+  background-color:gray;
+  margin-left: 20px;
+}
+
+.MLKGraphic {
+  background-color:gray;
+  margin-left: 20px;
+}
+
+img .thumbnail{
+	width: 50px;
+	height: 100px;
+	border: 1px solid #434343;
+}
